@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hintTextInputLayout">¿Qué quieres buscar?</string>
+    <string name="tempoDecorrido">Tiempo transcurrido</string>
+    <string name="distanciaPercorridaLabel">Distancia recorrida</string>
+    <string name="terminarPercursoButton">Terminar la ruta</string>
+    <string name="iniciarPercursoButton">Iniciar la ruta</string>
+    <string name="desativarGPSButton">Desactivar GPS</string>
+    <string name="ativarGPSButton">Activar GPS</string>
+    <string name="concederPermissaoGPSButton">Conceder permiso de GPS</string>
+    <string name="no_gps_no_app">No se puede ejecutar la aplicación sin GPS.</string>
+</resources>

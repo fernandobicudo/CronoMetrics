@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name" translatable="false">CronoMetrics</string>
+    <string name="concederPermissaoGPSButton">Grant GPS permission</string>
+    <string name="ativarGPSButton">Activate GPS</string>
+    <string name="desativarGPSButton">Deactivate GPS</string>
+    <string name="iniciarPercursoButton">Start  Route</string>
+    <string name="terminarPercursoButton">Finish Route</string>
+    <string name="distanciaPercorridaLabel">Travelled Distance</string>
+    <string name="tempoDecorrido">Elapsed Time</string>
+    <string name="hintTextInputLayout">What do you wanna search?</string>
+    <string name="no_gps_no_app">Can not run application without GPS.</string>
+</resources>
